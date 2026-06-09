@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: David英语成长营 本地运行",
+  "description": "沪教版英语口语与写作成长平台",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
