@@ -1,5 +1,5 @@
 import { GoogleGenAI, Type } from "@google/genai";
-import { WRITING_TASKS } from "../src/data/writingTasks";
+import { WRITING_TASKS } from "./api/data/writingTasks";
 
 function convertChineseToPinyin(chinese: string): string {
   const charDict: Record<string, string> = {
